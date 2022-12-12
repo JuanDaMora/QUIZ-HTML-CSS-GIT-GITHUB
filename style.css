@@ -1,0 +1,70 @@
+.enc{
+    border: 1px solid;
+    margin-bottom: 5px;
+}
+.master{
+    border: 1px solid;
+}
+.nav{
+    color: black;
+    display: inline-block;
+    text-decoration: none;
+}
+.nav div{
+    margin: 25px 25px;
+}
+.cliente{
+    border: 1px solid;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 85vh;
+}
+.cliente table{
+    border: 1px solid;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    text-align: center;
+}
+tr:nth-child(3) { 
+    border: solid thin;
+}
+button a{
+    text-decoration: none;
+    color: black;
+}
+button{
+    background-color: white;
+}
+form{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;
+}
+label{
+    float: left;
+    margin-left: 25px;
+    margin-top: 5%;
+}
+input{
+    margin-top: 5%;
+}
+.fin{
+    border: 1px solid;
+    width: 45%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.sign{
+    display: inline-flex;
+    float: left;
+    margin-left: 50px;
+    margin-top: 5%;
+}
+.ans{
+    display: inline-flex;
+    margin-top: 5%;
+}
